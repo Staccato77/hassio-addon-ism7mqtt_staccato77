@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: ism7mqtt Addon Repository
+name: ism7mqtt Addon Repository Staccato77
 url: 'https://github.com/b3nn0/hassio-addon-ism7mqtt'
-maintainer: Adrian Batzill
+maintainer: Adrian Batzill, Staccato77
