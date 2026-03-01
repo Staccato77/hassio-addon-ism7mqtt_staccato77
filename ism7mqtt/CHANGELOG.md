@@ -1,6 +1,7 @@
 
 # Changes to this addon
-- Bump ism7mqtt to v0.0.19
+#- Bump ism7mqtt to v0.0.19
+- Revert version of ism7mqtt back to 0.0.17 to debug unknown_device issue
 - Add language selector
 
 # Upstream changes to ism7mqtt
